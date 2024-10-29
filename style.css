@@ -46,18 +46,18 @@ img{
     color: #000;
 }
 .btn-container>.btn1:hover~img{
-    transition: all 5s ease;
-    transform: rotate(360deg);
+    transition: all 15s ease;
+    transform: rotate(3600deg);
 }
 .btn-container>.btn2:hover~img{
-    transition: all 10s ease;
-    transform: rotate(540deg);
+    transition: all 15s ease;
+    transform: rotate(5400deg);
 }
 .btn-container>.btn3:hover~img{
     transition: all 15s ease;
-    transform: rotate(720deg);
+    transform: rotate(7200deg);
 }
 .btn-container>.btn4:hover~img{
-    transition: all 20s ease;
-    transform: rotate(1440deg);
+    transition: all 15s ease;
+    transform: rotate(10400deg);
 }
